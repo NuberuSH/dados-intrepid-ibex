@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/NuberuSH/dados-intrepid-ibex/issues"
   },
-  "homepage": "https://github.com/NuberuSH/dados-intrepid-ibex#readme"
+  "homepage": "https://github.com/NuberuSH/dados-intrepid-ibex#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
